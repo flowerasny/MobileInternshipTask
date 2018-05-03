@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReposAppJava</string>
+    <string name="user_name">User name</string>
+    <string name="user_error">User doesn\'t exist!</string>
+    <string name="no_description">No description</string>
+    <string name="watchers">Watchers</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    <string name="no_public_repos_info">User has no public repositories</string>
+    <string name="no_language">No language specified</string>
+</resources>

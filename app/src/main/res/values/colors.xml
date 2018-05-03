@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <color name="colorAccent">#e36209</color>
+    <color name="card_language">#586069</color>
+    <color name="card_description">#586069</color>
+    <color name="repo_name">#0366d6</color>
+</resources>
